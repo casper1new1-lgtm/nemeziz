@@ -64,8 +64,8 @@
   ],
   "files": [
 	  {
-      "name": "system/Interface.u",
-      "url": "https://github.com/casper1new1-lgtm/nemeziz/raw/refs/heads/main/Interface.u"
+      "name": "system/interface.u",
+      "url": "https://github.com/casper1new1-lgtm/nemeziz/raw/refs/heads/main/interface.u"
     },
 	{
       "name": "system/LineageEffect.u",
@@ -96,8 +96,8 @@
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/user.ini"
     },
     {
-      "name": "system/Core.dll",
-      "url": "https://github.com/casper1new1-lgtm/nemeziz/raw/refs/heads/main/Core.dll"
+      "name": "system/core.dll",
+      "url": "https://github.com/casper1new1-lgtm/nemeziz/raw/refs/heads/main/core.dll"
     }
 
   ]
