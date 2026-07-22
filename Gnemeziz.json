@@ -97,6 +97,10 @@
       "name": "system/user.ini",
       "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/user.ini"
     },
+	{
+      "name": "staticmeshes/LineageEffectsStaticmeshes2.usx",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffectsStaticmeshes2.usx"
+    },
     {
       "name": "system/core.dll",
       "url": "https://github.com/casper1new1-lgtm/nemeziz/raw/refs/heads/main/core.dll"
